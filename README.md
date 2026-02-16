@@ -6,7 +6,7 @@ basic to intermediate Python concepts.
 ---
 
 ## 📌 Program Name
-**String Formatting – Table Creation**
+**1.String Formatting – Table Creation**
 
 ---
 
@@ -57,7 +57,7 @@ print("-" * 36)
 
 ## Additional Python Practice Programs
 
-### String Slicing Practice
+### 2. String Slicing Practice
 This program demonstrates various string slicing operations in Python, including:
 
 - Positive and negative indexing
