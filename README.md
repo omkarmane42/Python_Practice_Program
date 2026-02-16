@@ -55,6 +55,22 @@ print("-" * 36)
 ------------------------------------
 ```
 
+## Additional Python Practice Programs
+
+### String Slicing Practice
+This program demonstrates various string slicing operations in Python, including:
+
+- Positive and negative indexing
+- String slicing using ranges
+- Step size slicing
+- Reverse string operations
+
+**File:** 
+
+The program is designed for learning and practicing Python string manipulation concepts.
+
+This program is part of my Learning_Python repository.
+
 
 
 
