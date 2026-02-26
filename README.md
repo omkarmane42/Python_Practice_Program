@@ -108,7 +108,7 @@ Python list using various scenarios.
 
 ## 🔗 Practice File Link
 
-- 👉 [append_method.py](list-methods/append_method.py)
+- 👉 [append_method.py](append_method.py)
 
 > Click the link above to view the Python practice program.
 
