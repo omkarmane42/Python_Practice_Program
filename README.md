@@ -114,6 +114,44 @@ Python list using various scenarios.
 
 ---
 
+## Python Dictionary Study
+
+This repository contains Python practice programs for learning basic programming concepts.
+
+### 📄 File: Python_Dict_Study.py
+
+This program demonstrates how to work with **Python dictionaries** using a movie and cast example.
+
+### Concepts Covered
+
+* Creating a dictionary
+* Accessing dictionary values using keys
+* Using `keys()`, `values()`, and `items()`
+* Adding new elements to a dictionary
+* Counting elements using `len()`
+* Searching for an actor in movie cast
+
+### Example Dictionary Structure
+
+```python
+movies = {
+    "Coolie": ["Rajnikant", "Nagarjuna Akkineni", "Shruti Haasan", "Amir Khan"],
+    "Chhaava": ["Vicky Kaushal", "Rashmika Mandhana", "Akshay Khanna", "Ashutosh Rana"]
+}
+```
+
+### How to Run
+
+1. Download the repository
+2. Run the file using Python
+
+```bash
+python Python_Dict_Study.py
+```
+
+### Author
+
+Omkar Mane
 
 
 
