@@ -118,7 +118,7 @@ Python list using various scenarios.
 
 This repository contains Python practice programs for learning basic programming concepts.
 
-### 📄 File: Python_Dict_Study.py
+### 📄[ File: Python_Dict_Study.py](Python_Dict_Study.py)
 
 This program demonstrates how to work with **Python dictionaries** using a movie and cast example.
 
